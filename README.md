@@ -4,7 +4,8 @@ How to Install
 >npm install
 
 >gulp dev
-browser will open http://localhost:3000/
+
+now browser will open http://localhost:3000/
 
 Create MyBranch
 # creates the branch
